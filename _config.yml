@@ -1,5 +1,5 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: tristanmaloy's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Tristan Maloy's E-Portfolio
+description: Southern New Hampshire University CS499 CS Capstone
