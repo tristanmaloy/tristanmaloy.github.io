@@ -15,7 +15,7 @@ This section includes my code review for the original artifacts selected for enh
 
 ## Code Review Summary
 
-My name is Tristan Maloy, and this code review was completed for CS499 Computer Science Capstone. The review examines three projects completed throughout the Computer Science program: a Python text-based game, an embedded thermostat system using a Raspberry Pi, and an Android weight tracking application. Together, these artifacts demonstrate growth in software design, algorithms and data structures, security, and professional software development practices.
+This review examines three projects completed throughout the Computer Science program: a Python text-based game, an embedded thermostat system using a Raspberry Pi, and an Android weight tracking application. Together, these artifacts demonstrate growth in software design, algorithms and data structures, security, and professional software development practices.
 
 ### Text-Based Game
 
