@@ -1,1 +1,0 @@
-# tristanmaloy.github.io
