@@ -3,7 +3,7 @@ layout: default
 title: Professional Self-Assessment
 ---
 
-<img src="../images/c30bba6a-fb0c-422c-bdaf-42e31032973e.jfif" width="700">
+<img src="images/c30bba6a-fb0c-422c-bdaf-42e31032973e.jfif" width="700">
 
 # Professional Self-Assessment
 
