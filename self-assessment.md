@@ -3,6 +3,8 @@ layout: default
 title: Professional Self-Assessment
 ---
 
+<img src="../images/c30bba6a-fb0c-422c-bdaf-42e31032973e.jfif" width="700">
+
 # Professional Self-Assessment
 
 Throughout my Bachelor of Science in Computer Science program, I have developed technical skills and professional abilities that have prepared me to enter the field as a well-rounded computing professional. Completing coursework and creating this ePortfolio allowed me to reflect on the growth I have experienced and demonstrate the knowledge and skills I have gained. The process of enhancing previous projects for my capstone strengthened my understanding of software development practices and reinforced the importance of writing maintainable, secure, and efficient code. In addition to the artifacts included in this portfolio, coursework in web development, secure coding, embedded systems, and software engineering expanded my experience with a variety of programming languages, tools, and technologies.
