@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+nav {
+  margin-bottom: 25px;
+  padding: 12px;
+  background: #f4f4f4;
+  border-radius: 8px;
+}
+
+nav a {
+  display: inline-block;
+  margin: 4px;
+  padding: 8px 12px;
+  background: #267CB9;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background: #1d5f8c;
+}
