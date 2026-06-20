@@ -2,6 +2,16 @@
 layout: default
 title: Raspberry Pi Thermostat
 ---
+<nav>
+  <a href="/">Home</a> |
+  <a href="/self-assessment">Professional Self-Assessment</a> |
+  <a href="/code-review">Code Review</a> |
+  <a href="/projects/text-game">Text-Based Game</a> |
+  <a href="/projects/thermostat">Thermostat</a> |
+  <a href="/projects/weight-tracker">Weight Tracker</a>
+</nav>
+
+---
 
 # Raspberry Pi Thermostat
 
