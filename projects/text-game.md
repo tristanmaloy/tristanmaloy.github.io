@@ -66,3 +66,8 @@ I also added input normalization:
  
 This helped the program handle capitalization and extra spaces more reliably, which improved the user experience.
 Overall, I learned that small design choices, such as selecting the right data structure or validating input, can make a program more reliable and professional. The biggest challenge was balancing new features, such as room descriptions and multiple endings, with clean structure. In the end, the artifact became more modular, readable, and scalable while still keeping the original goal of the game intact.
+
+### Downloads
+
+- [Enhanced Source Code](../assets/files/The_Goblin_and_Its_Treasure.py)
+- [Original Source Code](../assets/files/Text-Based-Game_ORIGINAL.py)
