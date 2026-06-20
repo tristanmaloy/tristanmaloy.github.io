@@ -64,3 +64,8 @@ During the enhancement process, I also discovered several issues in the original
  
 Because the method was missing parentheses, it was never actually called. I also found that the heating and cooling decision logic inside updateLights() was incorrectly indented beneath the debug statements. Moving the logic outside the debug block ensured that the LEDs behaved correctly regardless of whether debugging was enabled. 
 One of the biggest challenges I faced was integrating these enhancements into the existing state machine while preserving the functionality of the display updates, serial communication, and LED controls. Through testing and debugging, I learned the importance of making incremental changes and carefully evaluating how one modification can affect other components of the system. Overall, this enhancement strengthened my understanding of algorithms, data structures, debugging, and software design while demonstrating how thoughtful improvements can make a system more reliable and maintainable. 
+
+### Downloads
+
+- [Enhanced Source Code](../assets/files/Thermostat_Enhanced.py)
+- [Original Source Code](../assets/files/Thermostat_ORIGINAL.py)
