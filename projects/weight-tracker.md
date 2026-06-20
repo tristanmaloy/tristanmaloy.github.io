@@ -73,3 +73,8 @@ This improved the design because MainHome no longer needs to know exactly how th
 <img src="../images/Picture7.png" width="500">
  
 The biggest challenges were understanding Firebases asynchronous callbacks, deciding how to structure Firestore collections, and replacing local database logic without breaking the existing UI. I also had to think more carefully about security, especially because the original login system stored passwords locally. Overall, this enhancement helped me learn how to modernize an Android application by moving from local storage to cloud storage, improving maintainability, scalability, and security while keeping the app’s core purpose the same. 
+
+### Downloads
+
+- [Enhanced Source Code](../assets/files/Weight_Tracker_Enhanced.zip)
+- [Original Source Code](../assets/files/WeightTracker_ORIGINAL.zip)
