@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Tristan Maloy's E-Portfolio
 nav_order: 1
 ---
 
-# Tristan Maloy's E-Portfolio
+# Welcome!
 
 Welcome to my CS499 Computer Science Capstone ePortfolio. This portfolio showcases my growth throughout the Computer Science Program at Southern New Hampshire University through my professional self-assessment, coded review, and enhanced software artifacts. 
 
