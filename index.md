@@ -11,7 +11,7 @@ nav_order: 1
   <a href="/projects/thermostat">Thermostat</a> |
   <a href="/projects/weight-tracker">Weight Tracker</a>
 </nav>
----
+
 
 # Welcome!
 
