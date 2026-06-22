@@ -39,7 +39,7 @@ Algorithms and Data Structures
 
 ## Narrative
 
-While enhancing this artifact, I learned how relatively small changes to algorithms and data structures can significantly improve the reliability of an embedded system. On of the biggest improvements involved changing how the thermostat handled temperature readings. Originally, the system made heating and cooling decisions based on a single sensor reading:
+While enhancing this artifact, I learned how relatively small changes to algorithms and data structures can significantly improve the reliability of an embedded system. One of the biggest improvements involved changing how the thermostat handled temperature readings. Originally, the system made heating and cooling decisions based on a single sensor reading:
 
 <img src="../images/Picture8.png" width="500">
  
