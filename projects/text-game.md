@@ -48,7 +48,7 @@ I improved this by generating available directions dynamically from the room dat
 <img src="../images/Picture15.png" width="500">
  
 This made the code easier to maintain because the room dictionary now controls the available movement options instead of requiring repeated hardcoded statements. A challenge I faced was learning how to reduce repeated logic without making the program harder to read. I learned that good refactoring does not just make code shorter, it makes the design easier to understand and expand.
-Another major improvement was changing the inventory from a list toa set. In the original version, the inventory allowed duplicate items:
+Another major improvement was changing the inventory from a list to a set. In the original version, the inventory allowed duplicate items:
 
 <img src="../images/Picture16.png" width="500">
  
